@@ -1,0 +1,23 @@
+body {
+   
+    align-items: center;
+    justify-content: center;
+
+}
+
+.btn{
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 50px;
+    font-weight: 900;
+    position: absolute;
+    right: 50%;
+    top:50%;
+
+}
+
+
